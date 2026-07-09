@@ -1,0 +1,61 @@
+.one{
+     background-color: blue;
+     overflow: hidden;
+     padding: 50px;
+}
+   .two{
+    color: white;
+    float: left;
+}
+.three{
+    height: 200px;
+    width: 200px;
+    border-color: black;
+    border-radius: 100px;
+    float: right;
+}
+.website{
+    padding: 50px;
+    overflow: hidden;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+.diya{
+    float: left;
+}
+.cv{
+    float: right;
+
+}.one{
+     background-color: blue;
+     overflow: hidden;
+     padding: 50px;
+}
+   .two{
+    color: white;
+    float: left;
+}
+.three{
+    height: 200px;
+    width: 200px;
+    border-color: black;
+    border-radius: 100px;
+    float: right;
+}
+.website{
+    padding: 50px;
+    overflow: hidden;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+.diya{
+    float: left;
+}
+.cv{
+    float: right;
+
+}
